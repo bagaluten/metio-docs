@@ -1,0 +1,5 @@
+[
+  {{ range $index, $page := .Pages }}
+    -{{ $page.Params.error | jsonify }}
+  {{ end }}
+]

@@ -1,0 +1,6 @@
+theme = 'paper-mod'
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+[outputs]
+section=['html', 'json']
