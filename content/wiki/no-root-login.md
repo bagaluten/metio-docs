@@ -1,6 +1,5 @@
 ---
 title: "No root login"
-draft: true
 description: |
     Allowing ssh logins for the root user is considered
     highly dangerous and might lead to irreversable server 
